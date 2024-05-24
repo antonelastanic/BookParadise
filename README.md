@@ -27,7 +27,7 @@ Da bi korisnik mogao koristiti aplikaciju mora
 
 [Sitemap](https://www.notion.so/Sitemap-e5441cad6188481fab0f04072d960950?pvs=4)
 
-[Low Fidelity](https://www.notion.so/Sitemap-e5441cad6188481fab0f04072d960950?pvs=4)
+[Low Fidelity](https://www.notion.so/Low-Fidelity-446870f56bf24dc48e256213d201067c?pvs=4)
 
 [High Fidelity](https://www.figma.com/file/4bnJVTLOxljOEGaRhqKFZM/Bookstore---Book-Paradise?type=design&node-id=0%3A1&mode=design&t=SrVJ6xZ0zVh4e8nA-1)
 
